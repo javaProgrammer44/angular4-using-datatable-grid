@@ -43,8 +43,8 @@
             </template>
             <template #dataTableCell let-item="item">
                 <span style="color: grey">
-                <span class="glyphicon glyphicon-ok" *ngIf="item.active"></span>
-                <span class="glyphicon glyphicon-remove" *ngIf="!item.active"></span>
+                <span class="fa fa-check" *ngIf="item.active"></span>
+                <span class="fa fa-times" *ngIf="!item.active"></span>
                 </span>
             </template>
         </data-table-column>
