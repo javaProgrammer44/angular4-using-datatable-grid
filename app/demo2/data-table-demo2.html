@@ -4,6 +4,7 @@
     <input type="number" [(ngModel)]="yearLimit" class="form-control input-sm" style="display: inline-block; width: 100px">
   </div>
   <data-table
+    headerTitle="Cars (Multiple selection)"
     [items]="cars"
     [itemCount]="carCount"
     (reload)="reloadCars($event)"

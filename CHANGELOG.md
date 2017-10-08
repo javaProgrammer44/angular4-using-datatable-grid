@@ -1,3 +1,5 @@
+<a name="0.3.0"></a>
+# Update to angular 4 and Bootstrap 4
 <a name="0.2.8"></a>
 # 0.2.8 (2016-09-01)
 * remove @angular test libraries from system.js (now in shim)

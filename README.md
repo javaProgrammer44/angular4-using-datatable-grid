@@ -1,5 +1,5 @@
-## Angular 2 Data Table Demo
+## Angular 4 Data Table Bootstrap 4 Demo
 
-Demo application and examples for the [Angular 2 data table](https://github.com/ggmod/angular-2-data-table)
+Demo application and examples for the [Angular 4 Data Table Bootstrap 4](https://github.com/afermon/angular-4-data-table-bootstrap-4)
 
-[Live demo](https://ggmod.github.io/angular-2-data-table-demo)
+[Live demo](https://afermon.github.io/angular-4-data-table-bootstrap-4-demo)
