@@ -36,8 +36,8 @@ var DataTableDemo1 = /** @class */ (function () {
         core_1.Component({
             selector: 'data-table-demo-1',
             providers: [],
-            templateUrl: 'app/demo1/data-table-demo1.html',
-            styleUrls: ['app/demo1/data-table-demo1.css']
+            templateUrl: 'app/data-table/data-table-demo1.html',
+            styleUrls: ['app/data-table/data-table-demo1.css']
         }),
         __metadata("design:paramtypes", [])
     ], DataTableDemo1);
